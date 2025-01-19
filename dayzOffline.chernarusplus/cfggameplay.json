@@ -10,7 +10,7 @@
     "PlayerData":
 	{
 		"disablePersonalLight": false,
-        "spawnGearPresetFiles": ["custom/vanillaplus_loadout.json"],
+        "spawnGearPresetFiles": ["custom/vanillaplus_loadout.json","custom/cherno-weapon-showcase.json"],
 		"StaminaData":
 		{
 			"sprintStaminaModifierErc": 1.0,
