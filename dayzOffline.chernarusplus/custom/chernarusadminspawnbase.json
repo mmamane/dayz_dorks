@@ -57,7 +57,7 @@
             "scale": 1.0
         },
         {
-            "name": "Canteen",
+            "name": "FilteringBottle",
             "pos": [
                 6607.05126953125,
                 360.48175048828127,
@@ -71,7 +71,7 @@
             "scale": 1.0
         },
         {
-            "name": "Canteen",
+            "name": "FilteringBottle",
             "pos": [
                 6607.439453125,
                 360.4886779785156,
@@ -113,7 +113,7 @@
             "scale": 1.0
         },
         {
-            "name": "DryBag_Green",
+            "name": "FilteringBottle",
             "pos": [
                 6606.21484375,
                 360.5965576171875,
@@ -141,7 +141,7 @@
             "scale": 1.0
         },
         {
-            "name": "Scout",
+            "name": "M14",
             "pos": [
                 6605.771484375,
                 360.51171875,
@@ -155,7 +155,7 @@
             "scale": 1.0
         },
         {
-            "name": "Mag_Scout_5Rnd",
+            "name": "Mag_M14_20Rnd",
             "pos": [
                 6605.64501953125,
                 360.5265808105469,
@@ -169,7 +169,7 @@
             "scale": 1.0
         },
         {
-            "name": "Mag_Scout_5Rnd",
+            "name": "Mag_M14_20Rnd",
             "pos": [
                 6605.80224609375,
                 360.503662109375,
@@ -183,7 +183,7 @@
             "scale": 1.0
         },
         {
-            "name": "Rope",
+            "name": "GlowPlug",
             "pos": [
                 6600.5185546875,
                 360.3298034667969,
@@ -197,7 +197,7 @@
             "scale": 1.0
         },
         {
-            "name": "Rope",
+            "name": "GlowPlug",
             "pos": [
                 6600.32958984375,
                 360.28753662109377,
@@ -225,7 +225,7 @@
             "scale": 1.0
         },
         {
-            "name": "ACOGOptic_6x",
+            "name": "FilteringBottle",
             "pos": [
                 6606.24462890625,
                 360.57659912109377,
@@ -239,7 +239,7 @@
             "scale": 1.0
         },
         {
-            "name": "ConstructionHelmet_Lime",
+            "name": "AK_WoodBttstck",
             "pos": [
                 6605.359375,
                 360.1775207519531,
@@ -253,7 +253,7 @@
             "scale": 1.0
         },
         {
-            "name": "WorkingGloves_Yellow",
+            "name": "AK_WoodHndgrd",
             "pos": [
                 6605.138671875,
                 360.1557312011719,
@@ -267,7 +267,7 @@
             "scale": 0.9999999403953552
         },
         {
-            "name": "WorkingBoots_Brown",
+            "name": "TTSKOBoots",
             "pos": [
                 6605.30029296875,
                 360.17462158203127,
@@ -379,7 +379,7 @@
             "scale": 1.0
         },
         {
-            "name": "Bear_Beige",
+            "name": "HipPack_Black",
             "pos": [
                 6608.912109375,
                 360.15155029296877,
@@ -393,7 +393,7 @@
             "scale": 0.9999998807907105
         },
         {
-            "name": "Flag_Chernarus",
+            "name": "QuiltedJacket_Violet",
             "pos": [
                 6602.89892578125,
                 360.1174621582031,
@@ -2087,7 +2087,7 @@
             "scale": 1.0
         },
         {
-            "name": "CamoNet",
+            "name": "Mag_Glock_15Rnd",
             "pos": [
                 6599.17626953125,
                 360.32440185546877,
@@ -2101,7 +2101,7 @@
             "scale": 1.0
         },
         {
-            "name": "CamoNet",
+            "name": "Mag_Glock_15Rnd",
             "pos": [
                 6598.830078125,
                 360.3042297363281,
@@ -2115,7 +2115,7 @@
             "scale": 1.0
         },
         {
-            "name": "CamoNet",
+            "name": "Mag_Glock_15Rnd",
             "pos": [
                 6598.9755859375,
                 360.2471923828125,
@@ -2129,7 +2129,7 @@
             "scale": 1.0
         },
         {
-            "name": "CamoNet",
+            "name": "Mag_Glock_15Rnd",
             "pos": [
                 6599.09326171875,
                 360.3243103027344,
@@ -2157,7 +2157,7 @@
             "scale": 0.9999999403953552
         },
         {
-            "name": "CamoNet",
+            "name": "Mag_Glock_15Rnd",
             "pos": [
                 6598.57568359375,
                 360.3247375488281,
@@ -2549,7 +2549,7 @@
             "scale": 1.0
         },
         {
-            "name": "Battery9V",
+            "name": "Honey",
             "pos": [
                 6605.9453125,
                 360.5054626464844,
@@ -2563,7 +2563,7 @@
             "scale": 1.0
         },
         {
-            "name": "Battery9V",
+            "name": "Honey",
             "pos": [
                 6606.51806640625,
                 360.4752197265625,
@@ -2633,7 +2633,7 @@
             "scale": 1.0
         },
         {
-            "name": "SodaCan_Pipsi",
+            "name": "VitaminBottle",
             "pos": [
                 6607.44482421875,
                 360.44451904296877,
@@ -2647,7 +2647,7 @@
             "scale": 1.0
         },
         {
-            "name": "SodaCan_Pipsi",
+            "name": "VitaminBottle",
             "pos": [
                 6607.94091796875,
                 360.40240478515627,
@@ -2661,7 +2661,7 @@
             "scale": 1.0
         },
         {
-            "name": "SodaCan_Pipsi",
+            "name": "AviatorGlasses",
             "pos": [
                 6607.92822265625,
                 360.4061279296875,
@@ -2759,7 +2759,7 @@
             "scale": 1.0
         },
         {
-            "name": "NVGHeadstrap",
+            "name": "UniversalLight",
             "pos": [
                 6601.66015625,
                 360.3290710449219,
@@ -2801,7 +2801,7 @@
             "scale": 1.0
         },
         {
-            "name": "Headtorch_Black",
+            "name": "UniversalLight",
             "pos": [
                 6601.5556640625,
                 360.40679931640627,
@@ -2815,7 +2815,7 @@
             "scale": 1.0
         },
         {
-            "name": "Flashlight",
+            "name": "UniversalLight",
             "pos": [
                 6601.7587890625,
                 360.38983154296877,
@@ -2828,7 +2828,7 @@
             ],
             "scale": 1.0
         },
-        {
+		{
             "name": "HunterPants_Autumn",
             "pos": [
                 6602.14453125,
@@ -2843,7 +2843,7 @@
             "scale": 1.0
         },
         {
-            "name": "HunterPants_Winter",
+            "name": "PistolOptic",
             "pos": [
                 6602.48388671875,
                 360.3302307128906,
@@ -2857,7 +2857,7 @@
             "scale": 1.0
         },
         {
-            "name": "HuntingJacket_Winter",
+            "name": "PistolOptic",
             "pos": [
                 6602.8212890625,
                 360.3575134277344,
@@ -2871,7 +2871,7 @@
             "scale": 1.0
         },
         {
-            "name": "HuntingJacket_Autumn",
+            "name": "PistolOptic",
             "pos": [
                 6602.22900390625,
                 360.3504943847656,
@@ -2885,7 +2885,7 @@
             "scale": 1.0
         },
         {
-            "name": "HuntingVest",
+            "name": "PistolOptic",
             "pos": [
                 6602.66455078125,
                 360.3668518066406,
@@ -2899,7 +2899,7 @@
             "scale": 1.0
         },
         {
-            "name": "HuntingBag",
+            "name": "AviatorGlasses",
             "pos": [
                 6602.91064453125,
                 359.4801940917969,
@@ -2913,7 +2913,7 @@
             "scale": 1.0
         },
         {
-            "name": "CowboyHat_black",
+            "name": "DesignerGlasses",
             "pos": [
                 6602.42236328125,
                 359.5383605957031,
@@ -2927,7 +2927,7 @@
             "scale": 0.9999998807907105
         },
         {
-            "name": "HikingBootsLow_Black",
+            "name": "TTSKOBoots",
             "pos": [
                 6602.1279296875,
                 359.5336608886719,
@@ -2983,7 +2983,7 @@
             "scale": 1.0
         },
         {
-            "name": "FireworksLauncher",
+            "name": "Honey",
             "pos": [
                 6601.42236328125,
                 359.6029052734375,
@@ -2997,7 +2997,7 @@
             "scale": 1.0
         },
         {
-            "name": "FireworksLauncher",
+            "name": "Honey",
             "pos": [
                 6602.00732421875,
                 359.570556640625,
@@ -3011,7 +3011,7 @@
             "scale": 1.0
         },
         {
-            "name": "FireworksLauncher",
+            "name": "Honey",
             "pos": [
                 6603.69091796875,
                 359.4893798828125,
@@ -3081,7 +3081,7 @@
             "scale": 1.0
         },
         {
-            "name": "BallisticHelmet_Green",
+            "name": "QuiltedJacket_Orange",
             "pos": [
                 6603.40576171875,
                 360.3541564941406,
@@ -3095,7 +3095,7 @@
             "scale": 1.0
         },
         {
-            "name": "PoliceVest",
+            "name": "OMKJacket_Navy",
             "pos": [
                 6604.9453125,
                 359.5251770019531,
@@ -3109,7 +3109,7 @@
             "scale": 1.0
         },
         {
-            "name": "PolicePantsOrel",
+            "name": "OMKPants_Navy",
             "pos": [
                 6604.39208984375,
                 359.5205993652344,
@@ -3123,7 +3123,7 @@
             "scale": 1.0
         },
         {
-            "name": "PoliceJacketOrel",
+            "name": "BalaclavaMask_Blackskull",
             "pos": [
                 6603.9306640625,
                 359.52655029296877,
@@ -3137,7 +3137,7 @@
             "scale": 1.0
         },
         {
-            "name": "PoliceCap",
+            "name": "OMKPants_Navy",
             "pos": [
                 6604.2294921875,
                 359.571044921875,
@@ -3151,7 +3151,7 @@
             "scale": 0.9999998807907105
         },
         {
-            "name": "BallisticHelmet_UN",
+            "name": "OMKJacket_Navy",
             "pos": [
                 6603.91259765625,
                 359.5169982910156,
@@ -3165,7 +3165,7 @@
             "scale": 1.0
         },
         {
-            "name": "PressVest_Blue",
+            "name": "BalaclavaMask_Blackskull",
             "pos": [
                 6603.5400390625,
                 359.4974365234375,
@@ -3179,7 +3179,7 @@
             "scale": 1.0
         },
         {
-            "name": "MilitaryBoots_Black",
+            "name": "TTSKOBoots",
             "pos": [
                 6603.37255859375,
                 359.5317687988281,
@@ -3235,7 +3235,7 @@
             "scale": 1.0
         },
         {
-            "name": "OrienteeringCompass",
+            "name": "WinterCoif_Black",
             "pos": [
                 6601.81103515625,
                 360.3147888183594,
@@ -3249,7 +3249,7 @@
             "scale": 1.0
         },
         {
-            "name": "Compass",
+            "name": "WinterCoif_Black",
             "pos": [
                 6601.56103515625,
                 360.302978515625,
