@@ -2,15 +2,15 @@
 	"version": 122,
 	"GeneralData":
 	{
-		"disableBaseDamage": false,
-		"disableContainerDamage": false,
+		"disableBaseDamage": true,
+		"disableContainerDamage": true,
 		"disableRespawnDialog": false,
 		"disableRespawnInUnconsciousness": false
 	},
     "PlayerData":
 	{
 		"disablePersonalLight": false,
-        "spawnGearPresetFiles": ["custom/vanillaplus_loadout.json","custom/cherno-weapon-showcase.json"],
+        "spawnGearPresetFiles": ["custom/vanillaplus_loadout.json"],
 		"StaminaData":
 		{
 			"sprintStaminaModifierErc": 1.0,
