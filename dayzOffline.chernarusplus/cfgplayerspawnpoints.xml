@@ -19,8 +19,8 @@
             <max_steepness>45</max_steepness>
         </generator_params>
         <generator_posbubbles>
-            <pos x="6613.86" z="9054.93">
-                <!-- South of Prud -->
+            <pos x="4368.33" z="2231.19">
+                <!-- Balota Dock -->
             </pos>
         </generator_posbubbles>
     </fresh>
