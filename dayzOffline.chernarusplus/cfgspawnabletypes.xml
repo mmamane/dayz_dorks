@@ -3252,24 +3252,9 @@
 			<item name="CarBattery" chance="1.00" />
 		</attachments>
 	</type>
-	<!-- -->
+	<!-- Reserved for catphyshmd -->
 	<type name="CivilianSedan">
-		<attachments chance="1.00">
-			<item name="CivSedanWheel" chance="0.80" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="CivSedanWheel" chance="0.80" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="CivSedanWheel" chance="0.80" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="CivSedanWheel" chance="0.80" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="CivSedanWheel" chance="0.40" />
-		</attachments>
-		<attachments chance="1.00">
+    	<attachments chance="1.00">
 			<item name="CarRadiator" chance="0.60" />
 		</attachments>
 		<attachments chance="1.00">
@@ -3278,130 +3263,468 @@
 		<attachments chance="1.00">
 			<item name="SparkPlug" chance="0.60" />
 		</attachments>
-		<attachments chance="1.00">
-			<item name="HeadlightH7" chance="0.40" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="HeadlightH7" chance="0.40" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="CivSedanDoors_Driver" chance="0.30" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="CivSedanDoors_CoDriver" chance="0.30" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="CivSedanDoors_BackLeft" chance="0.30" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="CivSedanDoors_BackRight" chance="0.30" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="CivSedanHood" chance="0.20" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="CivSedanTrunk" chance="0.20" />
-		</attachments>
+		<cargo chance="1.00">
+			<item name="Aug" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="M14" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Deagle_Gold" chance="1.00" />
+		</cargo>
+        <cargo chance="1.00">
+			<item name="PistolSuppressor" chance="1.00" />
+		</cargo>        
+        <cargo chance="1.00">
+			<item name="M4_Suppressor" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="KobraOptic" chance="1.00" />
+        </cargo>
+        <cargo chance="1.00">
+			<item name="ACOGOptic" chance="1.00" />
+		</cargo>
+        <cargo chance="1.00">
+			<item name="ACOGOptic_6x" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_M14_20Rnd" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_M14_20Rnd" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_M14_20Rnd" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_M14_20Rnd" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_M14_20Rnd" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_M14_20Rnd" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_Deagle_9rnd" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_Deagle_9rnd" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_Deagle_9rnd" chance="1.00" />
+		</cargo>
+        <cargo chance="1.00">
+			<item name="Mag_Deagle_9rnd" chance="1.00" />
+		</cargo>
+        <cargo chance="1.00">
+			<item name="Mag_Deagle_9rnd" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="RGD5Grenade" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="RGD5Grenade" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="RGD5Grenade" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="RGD5Grenade" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CombatKnife" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Chainmail" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Chainmail_Leggings" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="PlateCarrierPouches_Black" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="PlateCarrierHolster_Black" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="PlateCarrierVest_Black" chance="1.00" />
+		</cargo>
+		<cargo>
+			<item name="MilitaryBoots_Black" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="TacticalGloves_Black" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="WitchHoodCoif_Black" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Armband_Snake" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="AssaultBag_Black" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="MilitaryBelt" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="FilteringBottle" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Canteen" chance="1.00" />
+		</cargo>
+        <cargo chance="1.00">
+			<item name="HockeyMask" chance="1.00" />
+		</cargo>
+        <cargo chance="1.00">
+			<item name="Jeans_Blue" chance="1.00" />
+		</cargo>
+        <cargo chance="1.00">
+			<item name="NBCBootsYellow" chance="1.00" />
+		</cargo>
+        <cargo chance="1.00">
+			<item name="NBCGlovesYellow" chance="1.00" />
+		</cargo>
+         <cargo chance="1.00">
+			<item name="NBCHoodYellow" chance="1.00" />
+		</cargo>
+ 		<cargo chance="1.00">
+			<item name="NBCJacketYellow" chance="1.00" />
+		</cargo>
+    	<cargo chance="1.00">
+			<item name="NBCPantsYellow" chance="1.00" />
+		</cargo>
+        <cargo chance="1.00">
+			<item name="GP5GasMask" chance="1.00" />
+		</cargo>
+        <cargo chance="1.00">
+			<item name="GasMask_Filter" chance="1.00" />
+		</cargo>
+        <cargo chance="1.00">
+			<item name="PetrolLighter" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Honey" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Honey" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="TacticalBaconCan" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="TacticalBaconCan" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="BandageDressing" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="BandageDressing" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="TetracyclineAntibiotics" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="ChernarusMap" chance="1.00" />
+		</cargo>
 	</type>
+	<!-- Reserved for jukari49 -->
 	<type name="CivilianSedan_Wine">
-		<attachments chance="1.00">
-			<item name="CivSedanWheel" chance="0.80" />
+    	<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="CivSedanWheel" chance="0.80" />
+			<item name="CarBattery" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="CivSedanWheel" chance="0.80" />
+			<item name="SparkPlug" chance="1.00" />
 		</attachments>
-		<attachments chance="1.00">
-			<item name="CivSedanWheel" chance="0.80" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="CivSedanWheel" chance="0.40" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="CarRadiator" chance="0.60" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="CarBattery" chance="0.60" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="SparkPlug" chance="0.60" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="HeadlightH7" chance="0.40" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="HeadlightH7" chance="0.40" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="CivSedanDoors_Driver_Wine" chance="0.30" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="CivSedanDoors_CoDriver_Wine" chance="0.30" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="CivSedanDoors_BackLeft_Wine" chance="0.30" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="CivSedanDoors_BackRight_Wine" chance="0.30" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="CivSedanHood_Wine" chance="0.20" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="CivSedanTrunk_Wine" chance="0.20" />
-		</attachments>
+		<cargo chance="1.00">
+			<item name="Aug" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="M4_Suppressor" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="KobraOptic" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="M14" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="ACOGOptic_6x" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_M14_20Rnd" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_M14_20Rnd" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_M14_20Rnd" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_M14_20Rnd" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_M14_20Rnd" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_M14_20Rnd" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Deagle" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_Deagle_9rnd" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_Deagle_9rnd" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_Deagle_9rnd" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_Deagle_9rnd" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_Deagle_9rnd" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="RGD5Grenade" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="RGD5Grenade" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="RGD5Grenade" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="RGD5Grenade" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CombatKnife" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Chainmail" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Chainmail_Coif" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Chainmail_Leggings" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="PlateCarrierPouches" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="PlateCarrierHolster" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="LeatherKnifeSheath" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="JungleBoots_Black" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="TacticalGloves_Black" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="TacticalGoggles" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Headdress_Wolf" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Armband_Wolf" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="AssaultBag_Black" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="MilitaryBelt" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="FilteringBottle" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Canteen" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Honey" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Honey" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Honey" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Honey" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="TacticalBaconCan" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="TacticalBaconCan" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="TacticalBaconCan" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="TacticalBaconCan" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="BandageDressing" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="BandageDressing" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="TetracyclineAntibiotics" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="ChernarusMap" chance="1.00" />
+		</cargo>
 	</type>
+	<!-- Reserved for tabsmac -->
 	<type name="CivilianSedan_Black">
-		<attachments chance="1.00">
-			<item name="CivSedanWheel" chance="0.80" />
+    	<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="CivSedanWheel" chance="0.80" />
+			<item name="CarBattery" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="CivSedanWheel" chance="0.80" />
+			<item name="SparkPlug" chance="1.00" />
 		</attachments>
-		<attachments chance="1.00">
-			<item name="CivSedanWheel" chance="0.80" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="CivSedanWheel" chance="0.40" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="CarRadiator" chance="0.60" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="CarBattery" chance="0.60" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="SparkPlug" chance="0.60" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="HeadlightH7" chance="0.40" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="HeadlightH7" chance="0.40" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="CivSedanDoors_Driver_Black" chance="0.30" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="CivSedanDoors_CoDriver_Black" chance="0.30" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="CivSedanDoors_BackLeft_Black" chance="0.30" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="CivSedanDoors_BackRight_Black" chance="0.30" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="CivSedanHood_Black" chance="0.20" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="CivSedanTrunk_Black" chance="0.20" />
-		</attachments>
+		<cargo chance="1.00">
+			<item name="Vikhr" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_Vikhr_30Rnd" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_Vikhr_30Rnd" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_Vikhr_30Rnd" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_Vikhr_30Rnd" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_Vikhr_30Rnd" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="M14" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_M14_20Rnd" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_M14_20Rnd" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_M14_20Rnd" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Glock19" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_Glock_15Rnd" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_Glock_15Rnd" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_Glock_15Rnd" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="M67Grenade" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="M67Grenade" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="M67Grenade" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="M67Grenade" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CombatKnife" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="MilitaryBoots_Bluerock" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="OMKJacket_Navy" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="OMKPants_Navy" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Honey" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="TacticalBaconCan" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="BandageDressing" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="BandageDressing" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Armband_APA" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="TortillaBag_Winter" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="GhillieAtt_Winter" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="GhillieAtt_Woodland" chance="1.00" />
+		</cargo>
 	</type>
 	<!-- -->
 	<type name="Hatchback_02">
@@ -3605,105 +3928,224 @@
 			<item name="Sedan_02_Trunk" chance="0.20" />
 		</attachments>
 	</type>
+	<!-- Reserved for rumblicious -->
 	<type name="Sedan_02_Red">
-		<attachments chance="1.00">
-			<item name="Sedan_02_Wheel" chance="0.80" />
+    	<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Sedan_02_Wheel" chance="0.80" />
+			<item name="CarBattery" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Sedan_02_Wheel" chance="0.80" />
+			<item name="SparkPlug" chance="1.00" />
 		</attachments>
-		<attachments chance="1.00">
-			<item name="Sedan_02_Wheel" chance="0.80" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="Sedan_02_Wheel" chance="0.40" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="CarRadiator" chance="0.60" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="CarBattery" chance="0.60" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="SparkPlug" chance="0.60" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="HeadlightH7" chance="0.40" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="HeadlightH7" chance="0.40" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="sedan_02_Door_1_1_Red" chance="0.30" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="Sedan_02_Door_1_2_Red" chance="0.30" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="Sedan_02_Door_2_1_Red" chance="0.30" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="Sedan_02_Door_2_2_Red" chance="0.30" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="Sedan_02_Hood_Red" chance="0.20" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="Sedan_02_Trunk_Red" chance="0.20" />
-		</attachments>
+		<cargo chance="1.00">
+			<item name="Aug" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_STANAG_60Rnd" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="AKM" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_AKM_Drum75Rnd_Green" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Saiga" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_Saiga_Drum20Rnd" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="RGD5Grenade" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="MilitaryBoots_Beige" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="BandanaMask_CamoPattern" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Honey" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="TacticalBaconCan" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="BandageDressing" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="BandageDressing" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Armband_APA" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="SherpaHat_Red" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="SherpaHat_Blue" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="SherpaHat_White" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="GhillieAtt_Woodland" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="GhillieAtt_Winter" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="QuiltedJacket_Orange" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="QuiltedJacket_Violet" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="QuiltedJacket_Blue" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CargoPants_Beige" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CargoPants_Green" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CargoPants_Blue" chance="1.00" />
+		</cargo>
 	</type>
+	<!-- Reserved for howmuchyagot -->
 	<type name="Sedan_02_Grey">
-		<attachments chance="1.00">
-			<item name="Sedan_02_Wheel" chance="0.80" />
+    	<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Sedan_02_Wheel" chance="0.80" />
+			<item name="CarBattery" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Sedan_02_Wheel" chance="0.80" />
+			<item name="SparkPlug" chance="1.00" />
 		</attachments>
-		<attachments chance="1.00">
-			<item name="Sedan_02_Wheel" chance="0.80" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="Sedan_02_Wheel" chance="0.40" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="CarRadiator" chance="0.60" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="CarBattery" chance="0.60" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="SparkPlug" chance="0.60" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="HeadlightH7" chance="0.40" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="HeadlightH7" chance="0.40" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="sedan_02_Door_1_1_Grey" chance="0.30" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="Sedan_02_Door_1_2_Grey" chance="0.30" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="Sedan_02_Door_2_1_Grey" chance="0.30" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="Sedan_02_Door_2_2_Grey" chance="0.30" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="Sedan_02_Hood_Grey" chance="0.20" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="Sedan_02_Trunk_Grey" chance="0.20" />
-		</attachments>
+		<cargo chance="1.00">
+			<item name="Aug" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_STANAG_60Rnd" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_STANAG_60Rnd" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_STANAG_60Rnd" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_STANAG_60Rnd" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_STANAG_60Rnd" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="M4A1_Green" chance="1.00" /> M4A1
+		</cargo>
+		<cargo chance="1.00">
+			<item name="ACOGOptic_4x" chance="1.00" />
+		</cargo>
+        <cargo chance="1.00">
+			<item name="VSS" chance="1.00" />
+		</cargo>
+        <cargo chance="1.00">
+			<item name="Mag_Vikhr_30Rnd" chance="1.00" />
+		</cargo>
+        <cargo chance="1.00">
+			<item name="Mag_Vikhr_30Rnd" chance="1.00" />
+		</cargo>
+        <cargo chance="1.00">
+			<item name="Mag_Vikhr_30Rnd" chance="1.00" />
+		</cargo>
+        <cargo chance="1.00">
+			<item name="Mag_Vikhr_30Rnd" chance="1.00" />
+		</cargo>        
+		<cargo chance="1.00">
+			<item name="M18SmokeGrenade_Red" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="RGD5Grenade" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="RGD5Grenade" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="RGD5Grenade" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="PlateCarrierPouches_Black" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="PlateCarrierHolster_Black" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="PlateCarrierVest_Black" chance="1.00" />
+		</cargo>
+		<cargo>
+			<item name="MilitaryBoots_Black" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="TacticalGloves_Black" chance="1.00" />
+		</cargo>
+        <cargo chance="1.00">
+			<item name="BalaclavaMask_Black" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Armband_Zenit" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="AssaultBag_Black" chance="1.00" />
+		</cargo>    
+      	<cargo chance="1.00">
+			<item name="CargoPants_Black" chance="1.00" />
+		</cargo>
+        <cargo chance="1.00">
+			<item name="M65Jacket_Black" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Honey" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Honey" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Honey" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Honey" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="TacticalBaconCan" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="TacticalBaconCan" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="TacticalBaconCan" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="TacticalBaconCan" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="BandageDressing" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="BandageDressing" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="BoonieHat_Black" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="WitchHoodCoif_Black" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="BalaclavaMask_Black" chance="1.00" />
+		</cargo>
 	</type>
 	<type name="Truck_01_Covered">
 		<attachments chance="1.00">
